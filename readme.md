@@ -2,4 +2,5 @@
 
 ## How to run
 ```
+make start-nginx
 ```
